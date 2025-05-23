@@ -33,10 +33,12 @@ This project is designed to:
 [CSV Data in GCS/HDFS]
 
 |
+
 v
 [Spark ETL Job]
 
 |
+
 v
 [Transformed Data in Hive/HDFS]
 
